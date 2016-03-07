@@ -4395,3 +4395,11 @@
   ip: 210.220.163.82
   provider: broadNnet-KR, SK Broadband Co Ltd
   reverse: bns1.hananet.net
+- country: MM
+  ip: 203.81.68.134
+  provider: MPT Telecommunication Co Ltd
+  reverse: ppp-126-68-arc.mpt.net.mm
+- country: MM
+  ip: 203.81.68.134
+  provider: MPT Telecommunication Co Ltd
+  reverse: midas-aaa-new3.mpt.net.mm
